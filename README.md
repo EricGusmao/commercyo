@@ -16,5 +16,5 @@
   Por meio de uma aplicação web monolítica
 
 ## API de comunicação externa
- [Nominatim (Geolocalização](https://nominatim.org/)
+ [Nominatim (Geolocalização)](https://nominatim.org/)
   
